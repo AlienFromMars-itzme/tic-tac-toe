@@ -1,0 +1,2 @@
+# No external dependencies required for basic functionality
+# Development dependencies (install with pip install -e .[dev])
